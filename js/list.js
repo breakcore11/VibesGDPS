@@ -6,7 +6,7 @@ const d = {
 			
       ],
 			"name": "To my fffingers I",
-                       "author": "KrmaL",
+                       "author": "Breakcore",
                        "more": "none",
                        "id": 9,
                        "pass": "696969",
@@ -46,7 +46,7 @@ const d = {
 			{
 				"vids": [
 					{
-						"user": "KrmaL",
+						"user": "Breakcore",
 						"link": "https://www.youtube.com/watch?v=S3-kbAxswm8",
 						"percent": 100,
 						"hz": "300Hz"
@@ -79,7 +79,7 @@ const d = {
 		{
 						"vids": [
 							{
-								"user": "KrmaL",
+								"user": "Breakcore",
 								"link": "https://www.youtube.com/watch?v=tNncl0ujEpU",
 								"percent": 100,
 								"hz": "300Hz"
@@ -98,7 +98,7 @@ const d = {
 					{
 						"vids": [
 							{
-								"user": "KrmaL",
+								"user": "Breakcore",
 								"link": "https://www.youtube.com/watch?v=ObwD5ziGkP8",
 								"percent": 100,
 								"hz": "300Hz"
