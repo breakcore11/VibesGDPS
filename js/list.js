@@ -5,6 +5,20 @@ const d = {
 			"vids": [
 			
       ],
+			"name": "Breakcores Hell",
+                       "author": "Breakcore",
+                       "more": "none",
+                       "id": 32,
+                       "pass": "366611",
+                       "percentToQualify": 74,
+                       "verificationVid": "https://www.youtube.com/watch?v=TL5T8krwAec",
+                       "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			
+      ],
 			"name": "To my fffingers I",
                        "author": "Breakcore",
                        "more": "none",
