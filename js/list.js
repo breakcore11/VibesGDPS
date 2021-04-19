@@ -91,7 +91,7 @@ const d = {
 									   "id": 18,
 									   "pass": "Free Copy",
 									   "percentToQualify": 100,
-									   "verificationVid": "https://www.youtube.com/watch?v=Nsf8iuPxXlY&t",
+									   "verificationVid": "https://www.youtube.com/watch?v=Nsf8iuPxXlY",
 									   "key": 0
 								},
 						/*=================================================================================*/
