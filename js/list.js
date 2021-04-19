@@ -23,7 +23,7 @@ const d = {
 	"vids": [
 		{
 			"user": "test",
-			"link": "https://www.youtube.com/watch?v=s-zWBGXJUnI&list",
+			"link": "https://www.youtube.com/watch?v=s-zWBGXJUnI",
 			"percent": 100,
 			"hz": "288Hz"	
 		},
