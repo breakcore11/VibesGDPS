@@ -45,7 +45,12 @@ const d = {
 			/*=================================================================================*/
 			{
 				"vids": [
-		
+					{
+						"user": "KrmaL",
+						"link": "https://www.youtube.com/watch?v=S3-kbAxswm8",
+						"percent": 100,
+						"hz": "300Hz"
+					},
 					],
 							   "name": "Atmosphere",
 							   "author": "Nukie",
@@ -73,7 +78,12 @@ const d = {
 					/*=================================================================================*/
 					{
 						"vids": [
-				
+							{
+								"user": "KrmaL",
+								"link": "https://www.youtube.com/watch?v=ObwD5ziGkP8",
+								"percent": 100,
+								"hz": "300Hz"
+							},
 							],
 									   "name": "Awakening",
 									   "author": "Nukie",
