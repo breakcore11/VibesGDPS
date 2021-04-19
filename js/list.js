@@ -21,7 +21,12 @@ const d = {
 /*=================================================================================*/
 {
 	"vids": [
-
+		{
+			"user": "test",
+			"link": "https://www.youtube.com/watch?v=s-zWBGXJUnI&list=PLnxaqqOWrHF8vh57UBJ3cMRy6CBhY0iYO&index=4",
+			"percent": 100,
+			"hz": "288Hz"	
+		},
 
 		
 
