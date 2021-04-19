@@ -76,6 +76,25 @@ const d = {
 								   "key": 0
 							},
 					/*=================================================================================*/
+		{
+						"vids": [
+							{
+								"user": "KrmaL",
+								"link": "https://www.youtube.com/watch?v=tNncl0ujEpU",
+								"percent": 100,
+								"hz": "300Hz"
+							},
+							],
+									   "name": "Time Leaper",
+									   "author": "Nukie",
+									   "more": "none",
+									   "id": 18,
+									   "pass": "Free Copy",
+									   "percentToQualify": 100,
+									   "verificationVid": "https://www.youtube.com/watch?v=Nsf8iuPxXlY&t",
+									   "key": 0
+								},
+						/*=================================================================================*/
 					{
 						"vids": [
 							{
