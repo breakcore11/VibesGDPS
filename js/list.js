@@ -3,12 +3,7 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "Another",
-					"link": "https://www.youtube.com/watch?v=sSLZBJ3l3tw",
-					"percent": 100,
-					"hz": "144Hz"
-				},
+
 
 				
 
