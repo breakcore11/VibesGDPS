@@ -44,6 +44,20 @@ const d = {
                 },
 		/*=================================================================================*/
 		{
+		"vids": [
+
+			],
+                       "name": "Long Time Friends",
+                       "author": "Nukie",
+                       "more": "none",
+                       "id": 35,
+                       "pass": "Free Copy",
+                       "percentToQualify": 100,
+                       "verificationVid": "https://www.youtube.com/watch?v=sjNUDs7wiW4",
+                       "key": 0
+                },
+		/*=================================================================================*/
+		{
 			"vids": [
 	
 				],
