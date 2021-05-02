@@ -10,7 +10,7 @@ const d = {
                        "more": "none",
                        "id": 32,
                        "pass": "366611",
-                       "percentToQualify": 74,
+                       "percentToQualify": 52,
                        "verificationVid": "https://www.youtube.com/watch?v=TL5T8krwAec",
                        "key": 0
 		},
@@ -24,7 +24,7 @@ const d = {
                        "more": "none",
                        "id": 9,
                        "pass": "696969",
-                       "percentToQualify": 78,
+                       "percentToQualify": 66,
                        "verificationVid": "https://www.youtube.com/watch?v=SLLkyqwUmMg",
                        "key": 1
 		},
@@ -38,7 +38,7 @@ const d = {
                        "more": "none",
                        "id": 15,
                        "pass": "696969",
-                       "percentToQualify": 81,
+                       "percentToQualify": 45,
                        "verificationVid": "https://www.youtube.com/watch?v=rh-FAxU610c",
                        "key": 2
                 },
@@ -52,7 +52,7 @@ const d = {
 			"more": "Breakcore",
 			"id": 41,
 			"pass": "Free Copy",
-			"percentToQualify": 100,
+			"percentToQualify": 68,
 			"verificationVid": "https://www.youtube.com/watch?v=c1GJXyB3bsE",
 			"key": 3
 		},
@@ -66,7 +66,7 @@ const d = {
 						   "more": "none",
 						   "id": 19,
 						   "pass": "Free Copy",
-						   "percentToQualify": 100,
+						   "percentToQualify": 69,
 						   "verificationVid": "https://www.youtube.com/watch?v=fmtU4VRSQuE",
 						   "key": 4
 					},
@@ -80,7 +80,7 @@ const d = {
                        "more": "none",
                        "id": 35,
                        "pass": "Free Copy",
-                       "percentToQualify": 100,
+                       "percentToQualify": 76,
                        "verificationVid": "https://www.youtube.com/watch?v=sjNUDs7wiW4",
                        "key": 5
                 },
@@ -99,7 +99,7 @@ const d = {
 							   "more": "none",
 							   "id": 12,
 							   "pass": "Free Copy",
-							   "percentToQualify": 100,
+							   "percentToQualify": 87,
 							   "verificationVid": "https://www.youtube.com/watch?v=YY7dxmadi7Y",
 							   "key": 6
 						},
