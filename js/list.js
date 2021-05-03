@@ -109,7 +109,7 @@ const d = {
 			
 						],
 								   "name": "SuccY",
-								   "author": "Nukie",
+								   "author": "Nukie and Breakcore [Nukie]",
 								   "more": "none",
 								   "id": 16,
 								   "pass": "555555",
