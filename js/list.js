@@ -5,20 +5,6 @@ const d = {
 			"vids": [
 			
       ],
-			"name": "Iron cat",
-                       "author": "Nukie",
-                       "more": "none",
-                       "id": 49,
-                       "pass": "Free Copy",
-                       "percentToQualify": 47,
-                       "verificationVid": "https://www.youtube.com/watch?v=_yIFtLcgEcY",
-                       "key": 0
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-			
-      ],
 			"name": "Breakcores Hell",
                        "author": "Breakcore",
                        "more": "none",
@@ -26,6 +12,20 @@ const d = {
                        "pass": "366611",
                        "percentToQualify": 52,
                        "verificationVid": "https://www.youtube.com/watch?v=TL5T8krwAec",
+                       "key": 0
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			
+      ],
+			"name": "Iron cat",
+                       "author": "Nukie",
+                       "more": "none",
+                       "id": 49,
+                       "pass": "Free Copy",
+                       "percentToQualify": 47,
+                       "verificationVid": "https://www.youtube.com/watch?v=_yIFtLcgEcY",
                        "key": 1
 		},
 		/*=================================================================================*/
