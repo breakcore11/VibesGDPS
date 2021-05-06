@@ -132,6 +132,20 @@ const d = {
                        "key": 8
                 },
 		/*=================================================================================*/
+						{
+					"vids": [
+			
+						],
+								   "name": "livello blu",
+								   "author": "Breakcore",
+								   "more": "none",
+								   "id": 53,
+								   "pass": "Can't Copy",
+								   "percentToQualify": 100,
+								   "verificationVid": "",
+								   "key": 9
+							},
+					/*=================================================================================*/
 				{
 					"vids": [
 			
@@ -142,8 +156,8 @@ const d = {
 								   "id": 16,
 								   "pass": "555555",
 								   "percentToQualify": 100,
-								   "verificationVid": "",
-								   "key": 9
+								   "verificationVid": "https://www.youtube.com/watch?v=2AMRArGq1JM",
+								   "key": 10
 							},
 					/*=================================================================================*/
 		{
@@ -162,7 +176,7 @@ const d = {
 									   "pass": "Free Copy",
 									   "percentToQualify": 100,
 									   "verificationVid": "https://www.youtube.com/watch?v=Nsf8iuPxXlY",
-									   "key": 9
+									   "key": 11
 								},
 						/*=================================================================================*/
 					{
@@ -181,7 +195,7 @@ const d = {
 									   "pass": "Free Copy",
 									   "percentToQualify": 100,
 									   "verificationVid": "https://www.youtube.com/watch?v=FZIhhWkrs-c",
-									   "key": 10
+									   "key": 12
 								},
 						/*=================================================================================*/
 
