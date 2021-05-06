@@ -142,7 +142,7 @@ const d = {
 								   "id": 53,
 								   "pass": "Can't Copy",
 								   "percentToQualify": 100,
-								   "verificationVid": "",
+								   "verificationVid": "https://www.youtube.com/watch?v=2AMRArGq1JM",
 								   "key": 9
 							},
 					/*=================================================================================*/
@@ -156,7 +156,7 @@ const d = {
 								   "id": 16,
 								   "pass": "555555",
 								   "percentToQualify": 100,
-								   "verificationVid": "https://www.youtube.com/watch?v=2AMRArGq1JM",
+								   "verificationVid": "https://www.youtube.com/watch?v=pHnlPkol8_4",
 								   "key": 10
 							},
 					/*=================================================================================*/
