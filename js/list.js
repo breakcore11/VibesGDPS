@@ -31,7 +31,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-			
+			{
+								"user": "Breakcore",
+								"link": "https://www.youtube.com/watch?v=4Me14OECRtY",
+								"percent": 100,
+								"hz": "300Hz"
+							},
       ],
 			"name": "Iron cat",
                        "author": "Nukie",
