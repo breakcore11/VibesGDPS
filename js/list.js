@@ -119,7 +119,7 @@ const d = {
                        "id": 73,
                        "pass": "696969",
                        "percentToQualify": 74,
-                       "verificationVid": "https://www.youtube.com/watch?v=sjNUDs7wiW4",
+                       "verificationVid": "https://www.youtube.com/watch?v=q8O_WgQzbNk",
                        "key": 7
                 },
 		/*=================================================================================*/
