@@ -79,6 +79,34 @@ const d = {
 		{
 			"vids": [
 	
+			],
+			"name": "XOllab",
+			"author": "Breakcore and more [Sharctic]",
+			"more": "PlaynopeGD, Sharctic",
+			"id": 71,
+			"pass": "855267",
+			"percentToQualify": 65,
+			"verificationVid": "https://www.youtube.com/watch?v=XDF9gAQg9-Y",
+			"key": 5
+		},
+		/*=================================================================================*/
+		{
+		"vids": [
+
+			],
+                       "name": "Glad",
+                       "author": "Breakcore and Sharctic [Sharctic]",
+                       "more": "none",
+                       "id": 73,
+                       "pass": "696969",
+                       "percentToQualify": 74,
+                       "verificationVid": "https://www.youtube.com/watch?v=sjNUDs7wiW4",
+                       "key": 6
+                },
+		/*=================================================================================*/
+		{
+			"vids": [
+	
 				],
 						   "name": "Daddy",
 						   "author": "Nukie",
@@ -86,10 +114,24 @@ const d = {
 						   "id": 19,
 						   "pass": "Free Copy",
 						   "percentToQualify": 69,
-						   "verificationVid": "https://www.youtube.com/watch?v=fmtU4VRSQuE",
-						   "key": 5
+						   "verificationVid": "https://www.youtube.com/watch?v=q8O_WgQzbNk",
+						   "key": 7
 					},
 			/*=================================================================================*/
+		{
+		"vids": [
+
+			],
+                       "name": "Future Funk",
+                       "author": "Breakcore and Sharctic [Sharctic]",
+                       "more": "none",
+                       "id": 72,
+                       "pass": "885632",
+                       "percentToQualify": 59,
+                       "verificationVid": "https://www.youtube.com/watch?v=RP47eQIshXk",
+                       "key": 8
+                },
+		/*=================================================================================*/
 		{
 		"vids": [
 
@@ -101,7 +143,7 @@ const d = {
                        "pass": "Free Copy",
                        "percentToQualify": 76,
                        "verificationVid": "https://www.youtube.com/watch?v=sjNUDs7wiW4",
-                       "key": 6
+                       "key": 9
                 },
 		/*=================================================================================*/
 			{
@@ -120,7 +162,7 @@ const d = {
 							   "pass": "Free Copy",
 							   "percentToQualify": 87,
 							   "verificationVid": "https://www.youtube.com/watch?v=YY7dxmadi7Y",
-							   "key": 7
+							   "key": 10
 						},
 				/*=================================================================================*/
 		{
@@ -134,7 +176,7 @@ const d = {
                        "pass": "Free Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=V3Yi8cOx_fA",
-                       "key": 8
+                       "key": 11
                 },
 		/*=================================================================================*/
 						{
@@ -148,7 +190,7 @@ const d = {
 								   "pass": "Can't Copy",
 								   "percentToQualify": 100,
 								   "verificationVid": "https://www.youtube.com/watch?v=2AMRArGq1JM",
-								   "key": 9
+								   "key": 12
 							},
 					/*=================================================================================*/
 				{
@@ -162,7 +204,7 @@ const d = {
 								   "pass": "555555",
 								   "percentToQualify": 100,
 								   "verificationVid": "https://www.youtube.com/watch?v=pHnlPkol8_4",
-								   "key": 10
+								   "key": 13
 							},
 					/*=================================================================================*/
 		{
@@ -181,7 +223,7 @@ const d = {
 									   "pass": "Free Copy",
 									   "percentToQualify": 100,
 									   "verificationVid": "https://www.youtube.com/watch?v=Nsf8iuPxXlY",
-									   "key": 11
+									   "key": 14
 								},
 						/*=================================================================================*/
 					{
@@ -200,7 +242,7 @@ const d = {
 									   "pass": "Free Copy",
 									   "percentToQualify": 100,
 									   "verificationVid": "https://www.youtube.com/watch?v=FZIhhWkrs-c",
-									   "key": 12
+									   "key": 15
 								},
 						/*=================================================================================*/
 
