@@ -91,20 +91,6 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-		"vids": [
-
-			],
-                       "name": "Glad",
-                       "author": "Breakcore and Sharctic [Sharctic]",
-                       "more": "none",
-                       "id": 73,
-                       "pass": "696969",
-                       "percentToQualify": 74,
-                       "verificationVid": "https://www.youtube.com/watch?v=sjNUDs7wiW4",
-                       "key": 6
-                },
-		/*=================================================================================*/
-		{
 			"vids": [
 	
 				],
@@ -115,9 +101,28 @@ const d = {
 						   "pass": "Free Copy",
 						   "percentToQualify": 69,
 						   "verificationVid": "https://www.youtube.com/watch?v=q8O_WgQzbNk",
-						   "key": 7
+						   "key": 6
 					},
 			/*=================================================================================*/
+		{
+		"vids": [
+{
+								"user": "Breakcore",
+								"link": "https://www.youtube.com/watch?v=wKZaSjS69TU",
+								"percent": 100,
+								"hz": "360Hz"
+							},
+			],
+                       "name": "Glad",
+                       "author": "Breakcore [Sharctic]",
+                       "more": "none",
+                       "id": 73,
+                       "pass": "696969",
+                       "percentToQualify": 74,
+                       "verificationVid": "https://www.youtube.com/watch?v=sjNUDs7wiW4",
+                       "key": 7
+                },
+		/*=================================================================================*/
 		{
 		"vids": [
 
