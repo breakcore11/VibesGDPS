@@ -100,29 +100,24 @@ const d = {
 						   "id": 19,
 						   "pass": "Free Copy",
 						   "percentToQualify": 69,
-						   "verificationVid": "https://www.youtube.com/watch?v=q8O_WgQzbNk",
+						   "verificationVid": "https://www.youtube.com/watch?v=fmtU4VRSQuE",
 						   "key": 6
 					},
 			/*=================================================================================*/
 		{
-		"vids": [
-{
-								"user": "Breakcore",
-								"link": "https://www.youtube.com/watch?v=wKZaSjS69TU",
-								"percent": 100,
-								"hz": "360Hz"
-							},
-			],
-                       "name": "Glad",
-                       "author": "Breakcore [Sharctic]",
-                       "more": "none",
-                       "id": 73,
-                       "pass": "696969",
-                       "percentToQualify": 74,
-                       "verificationVid": "https://www.youtube.com/watch?v=q8O_WgQzbNk",
-                       "key": 7
-                },
-		/*=================================================================================*/
+			"vids": [
+	
+				],
+						   "name": "Firework",
+						   "author": "Playnope and Breakcore [Breakcore]",
+						   "more": "none",
+						   "id": 78,
+						   "pass": "037195",
+						   "percentToQualify": 61,
+						   "verificationVid": "https://www.youtube.com/watch?v=q8O_WgQzbNk",
+						   "key": 7
+					},
+			/*=================================================================================*/
 		{
 		"vids": [
 
@@ -139,6 +134,25 @@ const d = {
 		/*=================================================================================*/
 		{
 		"vids": [
+{
+								"user": "Breakcore",
+								"link": "https://www.youtube.com/watch?v=wKZaSjS69TU",
+								"percent": 100,
+								"hz": "360Hz"
+							},
+			],
+                       "name": "Glad",
+                       "author": "Breakcore [Sharctic]",
+                       "more": "none",
+                       "id": 73,
+                       "pass": "696969",
+                       "percentToQualify": 74,
+                       "verificationVid": "https://www.youtube.com/watch?v=q8O_WgQzbNk",
+                       "key": 9
+                },
+		/*=================================================================================*/
+		{
+		"vids": [
 
 			],
                        "name": "Long Time Friends",
@@ -148,7 +162,7 @@ const d = {
                        "pass": "Free Copy",
                        "percentToQualify": 76,
                        "verificationVid": "https://www.youtube.com/watch?v=sjNUDs7wiW4",
-                       "key": 9
+                       "key": 10
                 },
 		/*=================================================================================*/
 			{
@@ -167,7 +181,7 @@ const d = {
 							   "pass": "Free Copy",
 							   "percentToQualify": 87,
 							   "verificationVid": "https://www.youtube.com/watch?v=YY7dxmadi7Y",
-							   "key": 10
+							   "key": 11
 						},
 				/*=================================================================================*/
 		{
@@ -181,7 +195,7 @@ const d = {
                        "pass": "Free Copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=V3Yi8cOx_fA",
-                       "key": 11
+                       "key": 12
                 },
 		/*=================================================================================*/
 						{
@@ -195,7 +209,7 @@ const d = {
 								   "pass": "Can't Copy",
 								   "percentToQualify": 100,
 								   "verificationVid": "https://www.youtube.com/watch?v=2AMRArGq1JM",
-								   "key": 12
+								   "key": 13
 							},
 					/*=================================================================================*/
 								{
@@ -209,7 +223,7 @@ const d = {
 								   "pass": "696969",
 								   "percentToQualify": 100,
 								   "verificationVid": "https://www.youtube.com/watch?v=ol8PLIjjGjc",
-								   "key": 13
+								   "key": 14
 							},
 					/*=================================================================================*/
 				{
@@ -223,7 +237,7 @@ const d = {
 								   "pass": "555555",
 								   "percentToQualify": 100,
 								   "verificationVid": "https://www.youtube.com/watch?v=pHnlPkol8_4",
-								   "key": 14
+								   "key": 15
 							},
 					/*=================================================================================*/
 		{
@@ -242,7 +256,7 @@ const d = {
 									   "pass": "Free Copy",
 									   "percentToQualify": 100,
 									   "verificationVid": "https://www.youtube.com/watch?v=Nsf8iuPxXlY",
-									   "key": 15
+									   "key": 16
 								},
 						/*=================================================================================*/
 					{
@@ -261,7 +275,7 @@ const d = {
 									   "pass": "Free Copy",
 									   "percentToQualify": 100,
 									   "verificationVid": "https://www.youtube.com/watch?v=FZIhhWkrs-c",
-									   "key": 16
+									   "key": 17
 								},
 						/*=================================================================================*/
 
