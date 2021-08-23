@@ -292,6 +292,20 @@ const d = {
 									   "key": 18
 								},
 						/*=================================================================================*/
+		{
+					"vids": [
+			
+						],
+								   "name": "Milky Way",
+								   "author": "Breakcore",
+								   "more": "none",
+								   "id": 86,
+								   "pass": "666699",
+								   "percentToQualify": 100,
+								   "verificationVid": "https://www.youtube.com/watch?v=yoM7bnzTFXM",
+								   "key": 19
+							},
+					/*=================================================================================*/
 
 
 
